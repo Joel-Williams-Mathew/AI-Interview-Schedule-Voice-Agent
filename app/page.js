@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <div>
       <h2>Subscribe To Joppieee</h2>
+      <Button>Subscribe</Button>
     </div>
   );
 }
